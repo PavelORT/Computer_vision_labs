@@ -8,3 +8,7 @@ venv\Scripts\activate
 
 ubuntu
 source venv/bin/activate             
+
+
+Для выбора виртуального окружения (venv) в VS Code нажмите Ctrl+Shift+P 
+Select Interpreter
