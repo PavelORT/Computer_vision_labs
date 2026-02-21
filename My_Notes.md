@@ -214,3 +214,10 @@ $$\int_{a}^{b} f(x) \,dx$$
 
 [[-1, -2, -1], [0, 0, 0], [1, 2, 1]]
 
+
+Руководство по оформлению Markdown файлов
+https://gist.github.com/Jekins/2bf2d0638163f1294637
+
+LaTeX
+
+https://devhops.ru/latex/symbols/#rel
