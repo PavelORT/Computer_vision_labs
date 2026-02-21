@@ -184,3 +184,18 @@ np.histogram()
 np.argmax(hist_histogram)
 
 values, bin_edges, patches = hist(img_stretched.ravel(), bins=range(256))
+
+
+Строчные $\sum_{i=1}^{n} i = \frac{n(n+1)}{2}$
+
+Блочные
+$$\int_{a}^{b} f(x) \,dx$$
+
+
+
+Формула плотности: 
+![alt text](image-3.png)
+Правило трех сигм: Примерно 68% значений находятся в пределах 
+, 95% — в пределах 
+, и 99,7% — в пределах 
+ от среднего.
