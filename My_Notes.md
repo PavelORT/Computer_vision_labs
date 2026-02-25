@@ -25,8 +25,13 @@ git status --ignored
 
 git rm -r --cached "Object-Tracking-with-SIFT-using-OpenCV-main"
 
+git rm -r --cached "visual-odometry-master/"
+
 git commit -m "Перестал отслеживать игнорируемые папки и файлы"
 
+echo "Object-Tracking-with-SIFT-using-OpenCV-main/" >> .git/info/exclude
+
+echo "visual-odometry-master/" >> .git/info/exclude
 
 Символы в .gitignore:
 * - любое имя файла (но не путь)
