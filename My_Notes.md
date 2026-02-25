@@ -221,3 +221,8 @@ https://gist.github.com/Jekins/2bf2d0638163f1294637
 LaTeX
 
 https://devhops.ru/latex/symbols/#rel
+
+
+
+David G. Lowe. "Distinctive image features from scale-invariant keypoints.” IJCV 60 (2), pp. 91-110, 2004
+https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf
