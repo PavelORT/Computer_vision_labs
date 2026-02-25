@@ -13,6 +13,36 @@ source venv/bin/activate
 Для выбора виртуального окружения (venv) в VS Code нажмите Ctrl+Shift+P 
 Select Interpreter
 
+venv
+
+pip freeze > requirements.txt
+
+GIT
+
+git status
+
+git status --ignored
+
+git rm -r --cached "Object-Tracking-with-SIFT-using-OpenCV-main"
+
+git commit -m "Перестал отслеживать игнорируемые папки и файлы"
+
+
+Символы в .gitignore:
+* - любое имя файла (но не путь)
+
+** - любая вложенность папок
+
+/ - разделитель папок
+
+# - комментарий
+
+
+
+
+
+
+
 
 pip install numpy==2.3.5
 
